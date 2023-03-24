@@ -1,0 +1,20 @@
+/* SVG files */
+svg {
+    color: var(--arc-palette-foregroundSecondary) !important;
+  }
+  
+  /* link color */
+  :link {
+    color: var(--arc-palette-foregroundSecondary) !important;
+  }
+  
+  /* bell icon badge */
+  .r-l5o3uw {
+    background: var(--arc-palette-foregroundSecondary) !important;
+  }
+  
+  /* "TWEET" button */
+  .m23 {
+    color: var(--arc-palette-foregroundSecondary) !important;
+  }
+  
